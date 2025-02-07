@@ -1,4 +1,4 @@
-# CryptiqueIncentives Smart Contract
+# Cryptique Incentives Smart Contract
 
 This Solidity smart contract manages community creation, sub-community creation with gating criteria, token deposits, and token transfers for incentivizing users on the Cryptique platform.
 
