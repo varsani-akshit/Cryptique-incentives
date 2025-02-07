@@ -42,13 +42,6 @@ This Solidity smart contract manages community creation, sub-community creation 
 * **`UserJoinedCommunity`:** Emitted when a user joins a community.
 * **`UserJoinedSubCommunity`:** Emitted when a user joins a sub-community.
 
-## Deployment
-
-1. Ensure you have the necessary tools (e.g., Truffle, Hardhat) and an Ethereum development environment.
-2. Install the required dependencies (`@openzeppelin/contracts`).
-3. Compile the contract using `solc` or a suitable compiler.
-4. Deploy the contract to the desired blockchain network (e.g., Polygon) using a deployment tool.
-
 ## Usage
 
 1. **Projects:**
